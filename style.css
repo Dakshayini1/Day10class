@@ -23,14 +23,14 @@
     width: 70px;
     height: 70px;
     /* color: blue; */
-    background-color: red;
+    background-color: white;
     z-index: 100;
     margin-top: 40px;
     margin-left: 40px;
    
 }
 .triangle{
-    background-color: transparent;
+    background-color: red;
     position: relative;
     left: 38px;
     top: 40px;
